@@ -9,4 +9,5 @@ Mail.Ru Cup 2018 Round 3题解
 (i^2+j^2)mod m = ((i mod m)^2+(j mod m)^2) mod m
 因此找到（i mod m, j mod m) = (x, y)即可
 在根据（x, y)反推（i, j）的个数
-![image]()
+
+![](https://github.com/dongyuysj/cf1-Mail.Ru-Cup-2018-Round-3/blob/master/1.png)
